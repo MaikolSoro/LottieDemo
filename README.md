@@ -7,8 +7,8 @@
 - LottieAnimation
 
 ## LOTTIEDEMO
-![Screenshot (76)](https://github.com/MaikolSoro/Notas/assets/46753453/e46c5d09-b48d-4402-84ea-9570c5adea64)
-![Screenshot (77)](https://github.com/MaikolSoro/Notas/assets/46753453/869646f4-ddb7-4748-8ab8-950f51c3694a)
+![Screenshot (77)](https://github.com/MaikolSoro/TaskApp/assets/46753453/41cd2a00-f6da-4b93-91fc-83b9727ccc99)
+![Screenshot (78)](https://github.com/MaikolSoro/TaskApp/assets/46753453/4888cd32-d28d-4a37-a87a-608af553f957)
 
 ## Contact
 Have an project? DM me at 👇
